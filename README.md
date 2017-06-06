@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ### Registration and Login System
 
 +   Breif Introduction
@@ -23,27 +21,32 @@ sqlite3 as database to save data and query data.This part basically has two main
 Client Terminal is achived by Java and a post function.This part is very simply.If you wnat to register an account,post the register link with
 username and password,then you will get the inforamtion if you register this account successfully.If you want to login,post the login link with
 username and password and you will get the information if you log in successfully.
+
 ---
 Here are all possible cases you will see when you use client terminal to
 registration or login.
+
 ---
 When you are registering:
 This username has been taken already
 ![This username has been taken already](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/duplicatedname.png)
+
 ---
 Register Successfully!
 ![Register Successfully!](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/success.png)
+
 ---
 When you are log in:
 No This User!
 ![No This User!](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/nouser.png)
+
 ---
 Password Incorrect!
 ![Password Incorrect!](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/incorrectpassword.png)
+
 ---
 Login Successfully!
 ![Login Successfully!](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/login%20success.png)
 
 =======
-# Authentication-System-By-Python-Flask
->>>>>>> origin/master
+
