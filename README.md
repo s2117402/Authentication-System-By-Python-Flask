@@ -16,6 +16,8 @@ post to transmit the username and password,and get back the result.
 Using Python Flask to build a Web Server to recerive and send information.Using
 sqlite3 as database to save data and query data.This part basically has two main functons.One is used to register the new account in the database,if this username has been existed in database,return back error,otherwise,return back the information of sucess.
 
+===
+
 #### Client terminal
 
 Client Terminal is achived by Java and a post function.This part is very simply.If you wnat to register an account,post the register link with
