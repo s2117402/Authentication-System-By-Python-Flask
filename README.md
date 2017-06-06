@@ -28,7 +28,9 @@ registration or login.
 
 ---
 When you are registering:
+
 This username has been taken already
+
 ![This username has been taken already](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/duplicatedname.png)
 
 ---
@@ -37,7 +39,9 @@ Register Successfully!
 
 ---
 When you are log in:
+
 No This User!
+
 ![No This User!](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/nouser.png)
 
 ---
@@ -48,5 +52,4 @@ Password Incorrect!
 Login Successfully!
 ![Login Successfully!](https://raw.githubusercontent.com/s2117402/Registration-and-Login-System/master/Image/login%20success.png)
 
-=======
 
