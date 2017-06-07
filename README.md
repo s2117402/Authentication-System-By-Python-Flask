@@ -1,22 +1,22 @@
-### Registration and Login System
+## Registration and Login System
 
 +   Breif Introduction
 +   Server terminal
 +   Client terminal
 
-#### Breif Introduction
+### Breif Introduction
 
 This is an important part of my project.I achieve a basic registration and enthentication system.Server part is finished by python(Use flask to build the web server and sqlite3 for database part).Client part is finished by Java,using
 post to transmit the username and password,and get back the result.
 
 - - -
 
-#### Server Terminal
+### Server Terminal
 
 Using Python Flask to build a Web Server to recerive and send information.Using
 sqlite3 as database to save data and query data.This part basically has two main functons.One is used to register the new account in the database,if this username has been existed in database,return back error,otherwise,return back the information of sucess.
 
-#### Client terminal
+### Client terminal
 
 Client Terminal is achived by Java and a post function.This part is very simply.If you wnat to register an account,post the register link with
 username and password,then you will get the inforamtion if you register this account successfully.If you want to login,post the login link with
